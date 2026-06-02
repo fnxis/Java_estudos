@@ -1,0 +1,9 @@
+Variaveis de classe: color, NAME
+Construtores: Public Blue
+C, implementacao de setHue: int hue;
+                            public void setHue(int hue){
+                            this.hue=hue;
+                            }
+D, implementacao do construtor: public Blue(int hue){
+                                   this.hue = hue;
+                                   }

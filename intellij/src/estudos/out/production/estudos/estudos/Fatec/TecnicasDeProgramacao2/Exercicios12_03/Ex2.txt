@@ -1,0 +1,3 @@
+Compilado: O codigo compilado é traduzido para linguegem do computador para depois ser feito a execução do codigo
+Interpretado:O codigo é executado linha por linha por um interpretador proprio
+Java: O java ele é hibrido, primeiro ele é compilado para Bytecode e depois interpretado pelo interpretador do JVM

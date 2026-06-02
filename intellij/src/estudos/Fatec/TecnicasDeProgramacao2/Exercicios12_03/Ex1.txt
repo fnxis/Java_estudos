@@ -1,0 +1,1 @@
+Variavel é um espaço na memoria para armazenar um valor, a declaracao define cada variavel(EX: Object objeto,Integer valor),na memoria cada variavel ocupa um espaco especifico na memoria , onde o valor é armazenado

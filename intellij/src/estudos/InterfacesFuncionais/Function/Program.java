@@ -18,6 +18,8 @@ public class Program {
 
         Function<Product,String> funct= p-> p.getName().toUpperCase();
 
+        // funçao map corre por todos itens de uma Stream
+        // collect transforma uma stream para uma lista novamente
         List<String> names1=products.stream().map(new UpperCaseName()).collect(Collectors.toList());// gera em caixa alta o nome por uma classe Function
         List<String> names2=products.stream().map(Product::staticUpperCaseName).collect(Collectors.toList());// gera em caixa alta o nome pelo metodo statico no objeto Product
         List<String> names3=products.stream().map(Product::nonStaticUpperCaseName).collect(Collectors.toList());// gera em caixa alta o nome pelo metodo nao statico no objeto Product

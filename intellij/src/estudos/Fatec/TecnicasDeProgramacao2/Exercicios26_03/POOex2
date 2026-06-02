@@ -1,0 +1,8 @@
+Abstração: Abstracao é quando temos um metodo e ele somente define oque ele faz, mas nao como ele faz
+Encapsulamento: é fechar alguns dados de uma classe, usando o modificador PRIVATE para que ninguem mexa nesses atributos, sendo possivel alterar somente dentro desses objetos, pelos metodos getter e setter
+Instancia: É o objeto criado a partir de uma classe, em um local especifico na memoria, sendo possivel acessar somente por esse objeto, sendo possivel criar varias instancias de uma mesma classe, cada um sendo alocada em um local diferente na memoria
+Tipos primitivos:
+           int: armazena numeros inteiros (ex: 1,2,-4,500)
+           double: armazena numeros com casas decimais (ex: 3.14,5.99)
+           char: armazena um unico caractere ou simbolo (ex: 'A', 'B', '%')
+           boolean: armazena um valo True (verdadeiro) ou False (falso)

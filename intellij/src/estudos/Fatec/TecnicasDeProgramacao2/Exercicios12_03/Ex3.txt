@@ -1,0 +1,3 @@
+Classe: Classe é um molde que define atributos para ser instanciados posteriormente
+Objeto: Objeto é uma instancia de uma classe para um objeto unico com valores que sao alterados conforme a necessidade de cada objeto
+Relação: A classe define oque vamos querer nos nossos objetos, e o objetos usamos para utilizar de fato a nossa classe

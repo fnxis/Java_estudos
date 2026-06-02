@@ -1,0 +1,6 @@
+Tv,900
+Mouse,50
+tablet,350.50
+Hd,80.90
+Computer,850
+Monitor,290

@@ -1,0 +1,2 @@
+metodos de objetos: São ações que um objeto específico pode realizar. Eles operam sobre os dados (variáveis de instância) daquele objeto em particular. Para usá-los, é obrigatório instanciar a classe usando o operador
+metodos de classe: São métodos que pertencem à classe e não a um objeto individual. Eles podem ser chamados diretamente pelo nome da classe, sem a necessidade de criar um objeto.

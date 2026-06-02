@@ -1,0 +1,2 @@
+Variavel static: a variavel static é uma variavel de classe, onde ela existe somente um espaço na memoria, ou seja se voce modificar ela, todos os objetos que derivam desta classe alteram tambem. Outra coisa é que essa variavel pode ser acessada sem uma instancia de um objeto, sendo possivel ser acessada sem um "new"
+Variavel de instancia: As variaveis de instancia sao ao contrario, onde suas variaveis funcionam direto dentro de seus objetos, onde cada objeto tem uma variavel em um local diferente na memoria, so podem ser acessadas a partir de uma instancia especifica
